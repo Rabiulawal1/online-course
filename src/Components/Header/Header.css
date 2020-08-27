@@ -1,0 +1,14 @@
+.logo img{
+    height: 80px;
+    width: 250px;
+}
+.menubar{
+    text-align: center;
+    background-color: orange;
+}
+.menubar nav a:hover{
+    background-color: gray;
+    color:black;
+
+}
+

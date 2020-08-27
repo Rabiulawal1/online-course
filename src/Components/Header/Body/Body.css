@@ -1,0 +1,7 @@
+.body{
+    display: flex;
+}
+.body-part{
+    width: 70%;
+    border-right: 1px solid black;
+}
